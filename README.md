@@ -1,1 +1,1 @@
-# Brainy Blocks - WordPress Gutenberg Blocks
+# Tidy Blocks - WordPress Gutenberg Blocks
